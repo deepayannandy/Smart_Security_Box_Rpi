@@ -1,0 +1,12 @@
+item { 
+	name:'fire'
+	id:1
+}
+item { 
+	name:'smoke'
+	id:2
+}
+item { 
+	name:'person'
+	id:3
+}
